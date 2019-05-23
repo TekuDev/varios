@@ -1,0 +1,3 @@
+se tiene que compilar de esta forma:
+
+g++ -std=c++11 -o encuentra_el_tesoro.exe encuentra_el_tesoro.cpp
